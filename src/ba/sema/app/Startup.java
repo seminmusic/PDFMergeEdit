@@ -40,6 +40,4 @@ public class Startup
 	}
 }
 
-// TEST IZMJENA NA GitHub-u
-// Test izmjena Eclipse
-// Izmjena GitHub
+// Izmjena na Eclipse
